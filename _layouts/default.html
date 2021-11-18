@@ -4,14 +4,26 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+                        <link rel="shortcut icon" type="image/png" href="{{ "me2.png" | prepend: site.baseurl }}" >
 		</head>
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
+			  <li><nameheader><a href="/">Ben Snodin</a></nameheader></li>
+		        	<li><a href="/">About</a></li>
+	        		<!--<li><a href="/cv">CV</a></li>-->
+	        		<li><a href="/research">Research</a></li>
 	        		<li><a href="/blog">Blog</a></li>
+				<li class="twitter">
+				  <a href="https://twitter.com/bsnodin">
+				    {% include social/twitter.svg %}
+				  </a>
+				</li>
+				<li class="linkedin">
+				  <a href="https://www.linkedin.com/in/ben-snodin-40b620a2/">
+				    {% include social/linkedin.svg %}
+				  </a>
+				</li>
 	    		</ul>
 			</nav>
 			<div class="container">
@@ -19,11 +31,7 @@
 			{{ content }}
 			
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
-			</footer>
+			<!--<footer>
+			</footer>-->
 		</body>
 	</html>

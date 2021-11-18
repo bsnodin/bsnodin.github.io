@@ -1,3 +1,7 @@
 name: Ben Snodin
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minima
+
+collections:
+  research_articles:
