@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: research_article
 title: Investigating how technology-focused academic fields become self-sustaining
 ---
-
-# Investigating how technology-focused academic fields become self-sustaining
 
 _This is a report on a project undertaken by Megan Kinniment and me to investigate the question “how do academic fields that aim to develop a technology grow into self-sustaining fields”. In the report, “we” usually refers to things Megan and I did / believe etc, while “I” refers to things I did / believe etc._
 

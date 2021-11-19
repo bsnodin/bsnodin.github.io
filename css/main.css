@@ -1,4 +1,3 @@
-
 :root {/*red links light blue-ish background*/
     --background-color: #fafeff;
 /*    --background-color: #fdfdf6;*/
@@ -14,14 +13,15 @@ body {
     background-color: var(--background-color);
     color: var(--default-font-color);
     font-size: 20px;
+    font-family:'Lato', sans-serif;
 }
 
 nav {
     white-space: nowrap;
+    text-align: center;
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -37,16 +37,26 @@ a {
     text-decoration: none;
     color: var(--hyperlink-color);
 }
+
 a:hover {
     text-decoration: none;
     color: var(--hyperlink-hover-color);
 }
-nameheader {
+nameheader {/* 2021/11/19 currently unused? */
     font-size: 30px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: bold;
     color: var(--heading-color);
 }
+
+h1, h2, h3, h4 {
+    color: var(--heading-color);
+}
+
+h1 a {
+    color: var(--heading-color);
+}
+
 p {
     color: var(--default-font-color);
 }
@@ -84,4 +94,33 @@ ul.posts li {
   width: 15px;
   height: 15px;
   fill: var(--hyperlink-hover-color);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: var(--hyperlink-color);
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+#photo {
+    padding-top: 30px;
 }
