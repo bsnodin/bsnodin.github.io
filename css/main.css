@@ -10,9 +10,10 @@
 body {
     margin: 60px auto;
     width: 70%;
+    max-width: 700px;
     background-color: var(--background-color);
     color: var(--default-font-color);
-    font-size: 20px;
+    font-size: 18px;
     font-family:'Lato', sans-serif;
 }
 
