@@ -124,3 +124,8 @@ td {
 #photo {
     padding-top: 30px;
 }
+
+image {
+    max-width: 100%;
+    height: auto;
+}
