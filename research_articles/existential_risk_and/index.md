@@ -201,7 +201,7 @@ References
 Appendix: the role of population growth
 =======================================
 
-One pair of features of the model that you might find unintuitive is that
+Two features of the model that you might find unintuitive are
 
 1.  population growth is necessary for sustained economic growth (without population growth, economic growth eventually stagnates), and
 2.  population grows at a constant rate forever.

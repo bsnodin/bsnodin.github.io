@@ -1,6 +1,5 @@
 ---
 year: 2020
-external_url: none
 title: "'Existential Risk and Growth' Deep Dive #2 - A Critical Look at Model Conclusions"
 type: Report
 journal: Report

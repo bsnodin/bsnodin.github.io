@@ -5,3 +5,6 @@ theme: minima
 
 collections:
   research_articles:
+
+plugins:
+  - jekyll-seo-tag

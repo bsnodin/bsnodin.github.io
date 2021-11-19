@@ -2,7 +2,10 @@
 layout: post
 title: "How to create a self-sustaining technology-focused academic field: wild speculation"
 date: 2021-11-18
+image: lab_unsplash700x.jpg
 ---
+
+![]({{ site.baseurl }}/assets/{{ page.image }})
 
 _This is a highly speculative, deliberately simplified, “strong opinion, weakly held” take on how to create a self-sustaining field, having completed a project aiming to shed light on the question “how do technology fields become self-sustaining” (see [here]({{ site.baseurl }}/research_articles/investigating_how_technology)). I don’t necessarily have high confidence in any particular assertion made here._
 

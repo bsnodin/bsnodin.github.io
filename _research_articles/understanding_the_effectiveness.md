@@ -5,5 +5,5 @@ title: Understanding the effectiveness of government interventions against the r
 type: Academic paper
 journal: Nature Communications
 date: 2021-10-05
-abstract: We found that business closures, educational institution closures, and gathering bans reduced transmission in Europe's second wave of COVID-19, but reduced it less than they did in the first wave.
+abstract: We found that business closures, educational institution closures, and gathering bans reduced transmission in Europe's second wave of COVID-19, but less so than in the first wave.
 ---

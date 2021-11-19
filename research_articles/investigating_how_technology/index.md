@@ -3,7 +3,7 @@ layout: research_article
 title: Investigating how technology-focused academic fields become self-sustaining
 ---
 
-_This is a report on a project undertaken by Megan Kinniment and me to investigate the question “how do academic fields that aim to develop a technology grow into self-sustaining fields”. In the report, “we” usually refers to things Megan and I did / believe etc, while “I” refers to things I did / believe etc._
+_This is a report on a project undertaken by Megan Kinniment and me to investigate the question “how do academic fields that aim to develop a technology grow into self-sustaining fields”. In the report, “we” usually refers to things Megan and I did / believe etc, while “I” refers to things I did / believe etc (see this report on the Effective Altruism Forum [here](https://forum.effectivealtruism.org/posts/DAakaQb8PuynGRCnf/investigating-how-technology-focused-academic-fields-become))._
 
 
 # Summary
@@ -63,6 +63,7 @@ The structure of the rest of the report is described in the bullet points below.
 
 
 # Research question, context, and motivation
+{: #Research_question__context__and_motivation}
 
 The aim of the project was to shed light on the question “how do academic fields that aim to develop a technology grow into self-sustaining fields”. We define a self-sustaining field as “an academic research field that is capable of attracting the necessary funds and expertise for future work without reliance on a particular small group of people or funding sources” (see the next subsection for more on this definition). 
 
@@ -125,6 +126,7 @@ We weren’t able to find any studies that had quite the focus we were intereste
 
 
 # The data we collected
+{: #The_data_we_collected}
 
 We considered 10 technologies and their corresponding fields: AI, Atomically Precise Manufacturing, Clean Meat, DNA Nanotechnology, Genetic Circuits, Quantum Computing, RNA Vaccines, Strategies for Engineered Negligible Senescence, Solid State Batteries, and Fusion Power. 
 
@@ -175,7 +177,7 @@ See the section below, [More details](#More_details), for links to the quantitat
 
 
 ## Possible sources of bias and other issues
-
+{:#Possible_sources_of_bias_and_other_issues}
 
 ### Data collection
 
@@ -191,6 +193,7 @@ Having said all this, for the sensitivity checks and other analyses I’ve perfo
 
 
 ### Technology selection bias and generalisability
+{: #Technology_selection_bias_and_generalisability}
 
 I think that selection bias regarding the choice of technologies to look at should be a key consideration when attempting to draw generally applicable lessons from this work. The particular technologies we chose to look at are partly a reflection of the kinds of technologies and fields Megan and I know about or were able to easily find information about by searching online or asking people in our networks. 
 
@@ -217,6 +220,7 @@ For these 3 factors, finding that they tend to be switched on by the time field 
 
 
 # Prediction takeaways
+{: #Prediction_takeaways}
 
 There are clear patterns in the statuses of the 29 factors in the years leading up to field establishment. While there is a lot of noise, it seems likely that at least some of these represent real relationships and effects for fields that are sufficiently similar to the 10 fields considered in this project.
 
@@ -242,6 +246,7 @@ For the 8 fields that reached establishment, the median time between a field’s
 
 
 # Differential technological development takeaways
+{: #Differential_technological_development_takeaways}
 
 Generally, to generate takeaways for differential technological development it’s necessary to identify causation; this is pretty hard in general, and especially so for this project because we only have observational data.
 
@@ -249,7 +254,7 @@ Still, here are some tentative takeaways:
 
 
 
-* We defined a factor called “risk tolerant funding”, corresponding to consistent  funding of roughly $2million per year or more from sources that accept a high risk of failure (this is usually government funding, including basic science funding).[^9]^,^[^10] All 8 fields that have become self-sustaining in our dataset had funding of this kind before establishment, but in some cases there was a lag of more than 10 years between this funding first appearing and the field becoming self-sustaining; and in addition, the 2 fields in our dataset that aren’t self-sustaining have had funding of this kind for a decade or more. This result doesn’t prove that risk tolerant funding is unimportant, but it suggests to me that risk tolerant funding isn’t sufficient for a field to become self-sustaining.
+* We defined a factor called “risk tolerant funding”, corresponding to consistent  funding of roughly $2million per year or more from sources that accept a high risk of failure (this is usually government funding, including basic science funding).[^9]<sup>,</sup>[^10] All 8 fields that have become self-sustaining in our dataset had funding of this kind before establishment, but in some cases there was a lag of more than 10 years between this funding first appearing and the field becoming self-sustaining; and in addition, the 2 fields in our dataset that aren’t self-sustaining have had funding of this kind for a decade or more. This result doesn’t prove that risk tolerant funding is unimportant, but it suggests to me that risk tolerant funding isn’t sufficient for a field to become self-sustaining.
 
 
 * I think that the positive relationship between factor count and field establishment pushes a bit away from the idea that there’s a key highly targeted intervention that promotes field establishment and a bit towards the idea that many top interventions are similarly effective, that many types of intervention are necessary, and that interventions that influence a broad range of factors are particularly effective.
@@ -263,6 +268,7 @@ I think that someone very interested in promoting the development of a particula
 
 
 # Brief opinionated stories about field establishment
+{: #Brief_opinionated_stories_about_field_establishment}
 
 The following list summarises our “opinionated stories” describing the main developments that led each field to become self-sustaining. These should be treated as **speculative**. They are attempts by us, as non-experts, to distill the key reasons the field became self-sustaining when it did, further compressed to a couple of bullet points per field.
 
@@ -293,20 +299,22 @@ See [this later section](#Opinionated_stories_about_field_establishment) for the
     * As lithium batteries were being developed scientists realised that solid lithium batteries would be a big deal, galvanising efforts in this direction (1978).
 
 # Detailed results
-
+{: #Detailed_results}
 
 ## Factor count is strongly related to whether a field is self-sustaining
+{: #Factor_count_is_strongly_related_to_whether_a_field_is_self_sustaining}
 
 It turns out that the factor count corresponds fairly closely to the self-sustaining status of a field. Here is the empirical probability (i.e. according to our dataset taken at face value) that a field is self-sustaining in a particular year as a function of the factor count in that year:
 
 ![Figure 3](https://39669.cdn.cke-cs.com/cgyAlfpLFBBiEjoXacnz/images/f7d62a41af9855f8a6fa19af1f469dafea3e6ea00ca83707.png/w_402 "Figure 3")
 
-I’ve included a logistic regression fit (essentially just fitting an s-curve), which fits the data fairly well. To give some idea regarding the amount of data underlying the empirical probabilities, I’ve included 95% (dotted lines) and 50% (solid lines) confidence intervals for these probabilities (these confidence intervals can give some idea of the statistical uncertainty but shouldn’t be taken too seriously / at face value[^11]). There is a fairly sharp transition from ~factor count = 13 to factor count = 19 during which the field goes from being very unlikely to be self-sustaining to being very likely to be self-sustaining.[^12]^,^[^13]
+I’ve included a logistic regression fit (essentially just fitting an s-curve), which fits the data fairly well. To give some idea regarding the amount of data underlying the empirical probabilities, I’ve included 95% (dotted lines) and 50% (solid lines) confidence intervals for these probabilities (these confidence intervals can give some idea of the statistical uncertainty but shouldn’t be taken too seriously / at face value[^11]). There is a fairly sharp transition from ~factor count = 13 to factor count = 19 during which the field goes from being very unlikely to be self-sustaining to being very likely to be self-sustaining.[^12]<sup>,</sup>[^13]
 
 I think this is an important validation of the data because it shows that factor count is closely related to whether a field is self-sustaining in our dataset. But, of course, in itself it’s not very useful: if you want to know whether a field is self-sustaining, you would probably prefer to check that directly by learning about the state of the field and making a judgement, rather than by collecting data on the 29 factors. It’s also not clear from this result whether a high factor count leads to a field becoming self-sustaining, or whether self-sustaining fields just tend to experience increasing factor count.
 
 
 ## Factor count is positively related to whether / when a field _becomes_ self-sustaining
+{: #Factor_count_is_positively_related_to_whether___when_a_field_becomes_self_sustaining}
 
 To assess whether the factor count is useful for prediction, it’s helpful to consider the probability that a given year is the establishment year (i.e. the first year the field is self-sustaining) as a function of factor count in the preceding year. I condition on the field having not already become self-sustaining by excluding years after the establishment year from the calculation. The results are plotted below.
 
@@ -320,9 +328,11 @@ One approach to doing longer-range forecasting would be via forecasting the futu
 
 
 ## When the different factors tend to occur
+{: #When_the_different_factors_tend_to_occur}
 
 
 ### Factor occurrences in the run-up to establishment
+{: #Factor_occurrences_in_the_run_up_to_establishment}
 
 The plot below shows how many of the 8 fields that became self-sustaining in our dataset had each factor switched on in the 20 years leading up to field establishment, as a function of time to establishment. Lighter colours correspond to the factor being switched on for more fields. The factors appear in order from high to low corresponding to the number of fields for which the factor is switched on in the establishment year.[^15]
 
@@ -348,6 +358,7 @@ It seems that there’s often movement in nearby fields in this period, since th
 
 
 ### Factor occurrences in the establishment year compared to the non-self-sustaining fields in 2020
+{: #Factor_occurrences_in_the_establishment_year_compared_to_the_non_self_sustaining_fields_in_2020}
 
 The plot below shows the number of fields for which each factor was switched on in the establishment year (equivalent to the right hand column in the first plot from the previous section), and also indicates the factor statuses in 2020 for the two fields in our dataset that are not self-sustaining fields, namely Atomically Precise Manufacturing and Strategies for Engineered Negligible Senescence. 
 
@@ -359,6 +370,7 @@ I take this as a weak suggestion that these two factors are important for field 
 
 
 ## Results from statistical measures of factor importance
+{: #Results_from_statistical_measures_of_factor_importance}
 
 I think that eyeballing the data as was done in the previous section is extremely useful, and it’s the source of a lot of the information I gained from analysing this dataset. In this section, I consider formal statistical techniques, specifically logistic regressions and decision trees. I think these are somewhat useful, because they give a slightly different angle on the data and are more objective.
 
@@ -382,6 +394,7 @@ Often, the factors that are picked out by these statistical methods are ones tha
 
 
 ## The length of time between field origin and establishment
+{: #The_length_of_time_between_field_origin_and_establishment}
 
 One way to do a simple outside view-type forecast of when a field will become self-sustaining is to consider the number of years since the origin year. 
 
@@ -397,6 +410,7 @@ Still, if (for example) you think the 10 fields we look at represent a good refe
 
 
 ## Opinionated stories about field establishment
+{: #Opinionated_stories_about_field_establishment}
 
 Here are short, opinionated stories describing the main developments that led each field to become self-sustaining. These should be treated as **speculative**. They are attempts by us, as non-experts, to distill the key reasons the field became self-sustaining when it did.
 
@@ -444,6 +458,7 @@ Once the advantages of solid batteries were recognised in the 1960s there were v
 
 
 ## Themes from reading about field histories
+{: #Themes_from_reading_about_field_histories}
 
 Here are some themes and other takeaways coming directly from our investigations into the histories of the 10 fields we considered for this project, rather than from (explicitly) considering the factors we recorded (many of these come from considering the “opinionated stories” shown in [the previous section](#Opinionated_stories_about_field_establishment) and their abbreviated versions as shown in [this earlier section](#Brief_opinionated_stories_about_field_establishment)):
 
@@ -460,6 +475,7 @@ Here are some themes and other takeaways coming directly from our investigations
 
 
 # More details
+{: #More_details}
 
 [This Google Drive folder](https://drive.google.com/drive/u/0/folders/1gyr4xt1Z0olf9AjZdhktyxLPx4tszx-Y) contains all the public supplementary documents related to this project.
 
@@ -470,7 +486,7 @@ Here are some themes and other takeaways coming directly from our investigations
 * The full quantitative dataset, including the factors data and establishment year for each field, can be found [here](https://docs.google.com/spreadsheets/d/1-9iuwljD6ucLNXFRq8Cpc6-7LCAZZ6DM69xCcadCYkM/edit#gid=0).
 * The descriptions we wrote for each field’s development can be found [here](https://docs.google.com/document/d/1qvSaTzcV-1xMOPCsvVeLkPAQUSB_XyGWo06gzlAmvgc/edit) (brief and with an explanation for the establishment year choice) and [here](https://docs.google.com/document/d/10fmQCc4i8EL8Nckv9Zx5mujjeyGAZyRDAuc153fFIq4/edit#heading=h.nat2tw4dg0wv) (longer).
 * Additional, rougher notes on each field’s development, including development timelines, can be found [here](https://drive.google.com/drive/u/0/folders/15RNSjg-M-JA5a0qKmG3Ok3n6P7XK6UIC). 
-* Some “if I was free to speculate”-style thoughts from me on how to create a self-sustaining field can be found [here](https://docs.google.com/document/u/0/d/1PxIOMDoiyOlSN2m1fLwya2xZppQNAN6aCRA_5I3ceWo/edit).
+* Some “if I was free to speculate”-style thoughts from me on how to create a self-sustaining field can be found [here]({{ site.baseurl }}/blog/2021/11/18/how-to-create).
 
 
 A brief discussion of the correlations between factors can be found in the Appendix section called [Correlations between factors](#Correlations_between_factors), and a brief discussion of our attempt to develop a quantitative field establishment measure (an initially appealing avenue which we eventually abandoned) can be found in the Appendix 
@@ -479,10 +495,9 @@ section called [We initially tried to develop a quantitative field establishment
 
 
 # Final thoughts
+{: #Final_thoughts}
 
-Megan and I are both happy to be contacted with thoughts, feedback, and questions either here in the comments or privately via a DM. If there’s enough interest, I’d consider publicly sharing more materials from this project (e.g. python notebooks, or additional figures to support claims).
-
-Neither Megan nor I currently have plans to continue with this work in the near future, but I think work in this area has the potential to be very valuable. I’d be interested in hearing from you if you’re interested in collaborating or otherwise taking this work further. One possibility would be collaborating with someone to turn this work into a journal article, if someone is keen to help with that.
+Neither Megan nor I currently have plans to continue with this work in the near future, but I think work in this area has the potential to be very valuable. I’d be interested in hearing from you if you’re interested in collaborating or otherwise taking this work further.
 
 
 ## Directions for further work
@@ -512,9 +527,10 @@ For this project, Megan was a research contractor at the Berkeley Existential Ri
 
 
 # Appendix: more results
-
+{: #Appendix__more_results}
 
 ## Plotting the logistic regression R-squareds against factor lag arguably provides weak evidence that our establishment year judgements are biased
+{: #Plotting_the_logistic_regression_R_squareds_against_factor_lag_arguably_provides_weak_evidence_that_our_establishment_year_judgements_are_biased}
 
 In a section in the main text called [Possible sources of bias and other issues](#Possible_sources_of_bias_and_other_issues), I mentioned that there’s a potential concern that a particular bias crept into the data collection process for the project, due to a possible (maybe unconscious) inclination to favour setting the establishment year to be a year where several factors switch on.
 
@@ -534,6 +550,7 @@ I still find the spike at zero lag a bit suspicious though, and partly because o
 
 
 ## Sensitivity analyses suggest that the logistic regression of establishment year against factor count is robust to exact choice of fields and establishment years
+{: #Sensitivity_analyses_suggest_that_the_logistic_regression_of_establishment_year_against_factor_count_is_robust_to_exact_choice_of_fields_and_establishment_years}
 
 I performed some sensitivity analyses to get some idea of the robustness of the logistic regression fit of establishment year against factor count in the preceding year shown in the section called [Factor count is positively related to whether / when a field _becomes_ self-sustaining
 ](#Factor_count_is_positively_related_to_whether___when_a_field_becomes_self_sustaining).
@@ -556,6 +573,7 @@ The plot shows that randomly shifting the establishment years generally changes 
 
 
 ## The distribution of factor first occurrences within the breakout period isn’t just due to noise
+{: #The_distribution_of_factor_first_occurrences_within_the_breakout_period_isn_t_just_due_to_noise}
 
 We define the “breakout period” as the period between the origin year (when the technology is first explored) and the establishment year (when the field becomes self-sustaining).[^19] One way to get a handle on whether the results shown in this report, especially those regarding the relevant effect of the different factors, reflect a real effect or are just due to noise is to see whether the frequency with which the factors occur within the breakout period is consistent with what we’d expect by chance (under certain assumptions). 
 
@@ -569,6 +587,7 @@ As for the identity of the factors that most often occur within the breakout per
 
 
 ## Factor count dynamics
+{: #Factor_count_dynamics}
 
 I’ve plotted the time series for the factor count for each field below. The green shaded region shows the period between the origin year and the establishment year (the “breakout period”), during which we consider the field to not yet be self-sustaining. The violet shaded region shows the period during which we consider the field to be self-sustaining (although note that we focused on specifying the start of this period and didn’t worry too much about whether it ended at a later date -- for example, maybe you could argue that the field of AI was no longer self-sustaining at some point between 1960 and 2000). 
 
@@ -577,6 +596,7 @@ Interestingly, it seems to me that the factor count generally shows some kind of
 ![Figure 15](https://39669.cdn.cke-cs.com/cgyAlfpLFBBiEjoXacnz/images/6e0d64a3cf0553f7f43a37a2e17c36c551e4fcc6061e8177.png/w_619 "Figure 15")
 
 ## Investigating factor importance with decision trees
+{: #Investigating_factor_importance_with_decision_trees}
 
 In a similar spirit to the lagged logistic regressions described in the section called [Results from statistical measures of factor importance](#Results_from_statistical_measures_of_factor_importance), I investigated which factors are important for field establishment by fitting decision trees. As was the case for those logistic regressions, I used “is year Y the field’s establishment year” as the outcome variable, and the factor values for a given year Y-A as the regressors, for various values of A. I fitted decision trees with a maximum depth of 2, which allows the decision tree to select up to 3 regressors.
 
@@ -590,7 +610,7 @@ As noted in the main text, “commercial products exist” is an example of a fa
 
 
 ## Correlations between factors
-
+{: #Correlations_between_factors}
 
 ### Top pairwise correlations
 
@@ -607,6 +627,7 @@ The only factor with a negative average correlation with the other factors is �
 
 
 ## We initially tried to develop a quantitative field establishment measure, but eventually decided not to
+{: #We_initially_tried_to_develop_a_quantitative_field_establishment_measure__but_eventually_decided_not_to}
 
 We originally planned to develop a quantitative measure determining when a field is self-sustaining, so that the establishment year would be determined objectively rather than being down to our subjective judgement. We thought this could be based on (some combination of) how funding, paper counts, Google Ngrams, or patent counts evolved over time.
 
@@ -655,7 +676,7 @@ However, we are not experts at assessing the state of a field using paper counts
 
 [^9]:
 
-     Here is the definition we used: _At this time, there was in total more than $1mil per year (1990 USD equivalent) of risk tolerant funding going towards the development of this area or technology. Where risk tolerant funding is funding where it is accepted that failure is at least somewhat likely and that this is an acceptable outcome._ Note that $1million in 1990 USD is roughly equivalent to $2million in 2021 USD, adjusting for inflation.
+     Here is the definition we used: _At this time, there was in total more than $1mil per year (1990 USD equivalent) of risk tolerant funding going towards the development of this area or technology. Where risk tolerant funding is funding where it is accepted that failure is at least somewhat likely and that this is an acceptable outcome._ Note that \\\$1 million in 1990 USD is roughly equivalent to \\\$2 million in 2021 USD, adjusting for inflation.
 
 [^10]:
      My impression is that in the early stages of a field, the amount of “risk tolerant” funding, by our definition, would be similar to the total amount of funding of any kind. Though we didn’t explicitly track this.

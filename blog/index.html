@@ -6,6 +6,11 @@ title: Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>{{ post.date | date: "%Y-%m-%d" }}</li>
+	  <img src="{{ site.baseurl }}/assets/{{ post.image }}">
+
+	  <br>
+	  <br>
+	  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br>{{ post.date | date: "%Y-%m-%d" }}</li>
+	  
 	  {% endfor %}
 	</ul>

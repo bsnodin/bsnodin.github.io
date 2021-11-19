@@ -1,6 +1,7 @@
 :root {/*red links light blue-ish background*/
-    --background-color: #fafeff;
+/*    --background-color: #ffffff;*/
 /*    --background-color: #fdfdf6;*/
+    --background-color: #fafeff;
     --default-font-color: #333;
     --hyperlink-color: #b65263;
     --hyperlink-hover-color: #cb8390;

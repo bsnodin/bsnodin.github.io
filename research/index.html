@@ -6,12 +6,13 @@ title: Research
 <p>
 {% assign sorted = site.research_articles | reverse %}
 {% for ra in sorted %}
-({{ ra.year }})
-{% if ra.external_url == "none" %}
-<a href="{{ ra.url }}" title="{{ ra.title }}">{{ ra.title }}</a></li>
-{% else %}
+
+{% if ra.external_url %}
 <a href="{{ ra.external_url }}" title="{{ ra.title }}">{{ ra.title }}</a></li>
+{% else %}
+<a href="{{ ra.url }}" title="{{ ra.title }}">{{ ra.title }}</a></li>
 {% endif %}
+({{ ra.year }})
 <br>
 <i>{{ ra.journal }}</i>
 <br>

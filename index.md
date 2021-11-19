@@ -3,7 +3,7 @@ layout: default
 title: Ben Snodin
 ---
 
-<center><img src="me400x.jpg" alt="me" width="400" id="photo"></center>
+<center><img src="{{ site.baseurl }}/assets/me400x.jpg" alt="me" width="400" id="photo"></center>
 
 Welcome to my website! My name is Ben. I'm a [Senior Research Scholar](https://www.fhi.ox.ac.uk/team/ben-snodin/) at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk/), where my work focuses on the risks and opportunities from a potential future technology called atomically precise manufacturing.
 
