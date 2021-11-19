@@ -10,3 +10,5 @@ Welcome to my website! My name is Ben. I'm a [Senior Research Scholar](https://w
 I previously worked in finance as a quantitative analyst, and before then I completed a [PhD in DNA nanotechnology](https://dna.physics.ox.ac.uk/index.php/Main_Page) at Oxford University. I also used to row a lot.
 
 I'm into [effective altruism](https://www.effectivealtruism.org/) and [longtermism](https://www.effectivealtruism.org/articles/cause-profile-long-run-future/), and I've signed the [Giving What We Can](https://www.givingwhatwecan.org/) pledge.
+
+You can reach me at hello[at]bensnodin dot com.

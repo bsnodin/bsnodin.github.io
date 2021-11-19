@@ -43,9 +43,8 @@ a:hover {
     text-decoration: none;
     color: var(--hyperlink-hover-color);
 }
-nameheader {/* 2021/11/19 currently unused? */
+nameheader {
     font-size: 30px;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: bold;
     color: var(--heading-color);
 }
