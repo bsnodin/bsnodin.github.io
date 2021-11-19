@@ -22,16 +22,33 @@ nav {
     text-align: center;
 }
 
+/* navigation bar for small screens */
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
     font-size: 20px;
-    display: inline-block;
 }
+
 nav ul li, footer ul li {
-    display: inline;
     margin-right: 20px;
+}
+
+
+/* navigation bar for big screens */
+@media only screen and (min-device-width: 400px) {
+    nav ul, footer ul {
+	padding: 0px;
+	list-style: none;
+	font-weight: bold;
+	font-size: 20px;
+	display: inline-block;
+    }
+
+    nav ul li, footer ul li {
+	display: inline;
+	margin-right: 20px;
+    }
 }
 
 a {
