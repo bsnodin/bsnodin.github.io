@@ -6,7 +6,7 @@ image: hammer_unsplash700x450.jpg
 ---
 ![]({{ site.baseurl }}/assets/{{ page.image }})
 
-I think I've seen dramatic benefits over the years from reading about how to be more productive. I've listed my favourite articles below. They are often more about attitude and ambition than about productivity systems.
+I think I've seen dramatic benefits over the years from reading about how to be more productive. I've listed my favourite articles below. They are often more about attitude and ambition than about productivity systems. 
 - [80000 Hours on how to be more successful in any job](https://80000hours.org/career-guide/how-to-be-successful/)
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman
 - [Be Relentlessly Resourceful](http://www.paulgraham.com/relres.html) by Paul Graham
