@@ -1,6 +1,7 @@
 ---
 year: 2021
 external_url: https://www.nature.com/articles/s41467-021-26013-4
+open_access_url: https://www.medrxiv.org/content/10.1101/2021.03.25.21254330v1.full
 title: Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe
 type: Academic paper
 journal: Nature Communications

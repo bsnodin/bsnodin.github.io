@@ -13,6 +13,9 @@ title: Research
 <a href="{{ ra.url }}" title="{{ ra.title }}">{{ ra.title }}</a></li>
 {% endif %}
 ({{ ra.year }})
+{% if ra.open_access_url %}
+(<a href="{{ ra.open_access_url }}" title="open access">open access</a>)</li>
+{% endif %}
 <br>
 <i>{{ ra.journal }}</i>
 <br>

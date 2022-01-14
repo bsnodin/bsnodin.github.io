@@ -3,7 +3,7 @@ layout: post
 title: "How to create a self-sustaining technology-focused academic field: wild speculation"
 date: 2021-11-18
 updated_date: 2021-11-27
-image: lab_unsplash700x.jpg
+image: lab_unsplash700x450.jpg
 ---
 
 ![]({{ site.baseurl }}/assets/{{ page.image }})
