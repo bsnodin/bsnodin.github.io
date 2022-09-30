@@ -6,5 +6,5 @@ title: Coarse-grained modelling of the structural properties of DNA origami
 type: Academic paper
 journal: Nucleic Acids Research
 date: 2019-01-03
-abstract: We used oxDNA to characterise the detailed structural properties of DNA origami structures. The model gave an excellent fit for a particular orgami for which we have high quality experimental structural data.
+abstract: We used a coarse-grained DNA model (oxDNA) to characterise the detailed structural properties of DNA origami structures. The model gave an excellent fit for a particular orgami for which we have high quality experimental structural data.
 ---

@@ -5,6 +5,7 @@ title: Investigating how technology-focused academic fields become self-sustaini
 
 _This is a report on a project undertaken by Megan Kinniment and me to investigate the question “how do academic fields that aim to develop a technology grow into self-sustaining fields”. In the report, “we” usually refers to things Megan and I did / believe etc, while “I” refers to things I did / believe etc (see this report on the Effective Altruism Forum [here](https://forum.effectivealtruism.org/posts/DAakaQb8PuynGRCnf/investigating-how-technology-focused-academic-fields-become))._
 
+See this report on the Effective Altruism Forum [here](https://forum.effectivealtruism.org/posts/DAakaQb8PuynGRCnf/investigating-how-technology-focused-academic-fields-become).
 
 # Summary
 
@@ -41,7 +42,7 @@ Here are our **main findings**:
 
 ![Figure 1](https://39669.cdn.cke-cs.com/cgyAlfpLFBBiEjoXacnz/images/2db7287fb06d36a2ea4fd3718bf66020f608ba80a2cac029.png/w_810 "Figure 1")
 
-* For the 8 fields that reached establishment, the **median time between a field’s origin year and establishment year**[^3] **was 18 years**, with the **quickest field** (Genetic Circuits) becoming established after **5 years**, and the **slowest** (Clean Meat) becoming established after **63 years** (the full list of times to establishment for the 8 fields, in years, is: 5, 16, 16, 17, 19, 26, 26, 63). Of the 2 non-established fields, at the time of writing one has had 31 years since its origin year, and the other has had 40 (more [here](#The_length_of_time_between_field_origin_and_establishment)). 
+* For the 8 fields that reached establishment, the **median time between a field’s origin year and establishment year**[^3] **was 18 years**, with the **quickest field** (Genetic Circuits) becoming established after **5 years**, and the **slowest** (Clean Meat) becoming established after **63 years** (the full list of times to establishment for the 8 fields, in years, is: 5, 16, 16, 17, 19, 26, 26, 63). Of the 2 non-established fields, at the time of writing one has had 31 years since its origin year, and the other has had 40 (more [here](#The_length_of_time_between_field_origin_and_establishment)).
 
 
     * But note that **this is probably very sensitive to the particular fields we chose to consider**: for example, we may have tended to look at “big” fields that take particularly long to become self-sustaining.
@@ -65,7 +66,7 @@ The structure of the rest of the report is described in the bullet points below.
 # Research question, context, and motivation
 {: #Research_question__context__and_motivation}
 
-The aim of the project was to shed light on the question “how do academic fields that aim to develop a technology grow into self-sustaining fields”. We define a self-sustaining field as “an academic research field that is capable of attracting the necessary funds and expertise for future work without reliance on a particular small group of people or funding sources” (see the next subsection for more on this definition). 
+The aim of the project was to shed light on the question “how do academic fields that aim to develop a technology grow into self-sustaining fields”. We define a self-sustaining field as “an academic research field that is capable of attracting the necessary funds and expertise for future work without reliance on a particular small group of people or funding sources” (see the next subsection for more on this definition).
 
 As noted in the summary, I use the following terminology in this report:
 
@@ -116,7 +117,7 @@ In general, I’m aware of theories or stories regarding why particular fields d
 
 ## The surrounding academic literature
 
-I’m not an expert in this area and most of my knowledge of the literature comes from the literature review Megan performed at the start of the project. 
+I’m not an expert in this area and most of my knowledge of the literature comes from the literature review Megan performed at the start of the project.
 
 The areas of the academic literature that seem to be most relevant for our research question are Scientometrics and Science of Science.[^4] The relevant work in these areas tends to focus on using bibliometric data (e.g. citation graphs) to study emerging academic fields, for example identifying research fields that are likely to grow rapidly on a ~5 year time horizon. These methods generally seem at least partially successful, apparently performing significantly better than chance when performance is assessed.[^5]
 
@@ -128,7 +129,7 @@ We weren’t able to find any studies that had quite the focus we were intereste
 # The data we collected
 {: #The_data_we_collected}
 
-We considered 10 technologies and their corresponding fields: AI, Atomically Precise Manufacturing, Clean Meat, DNA Nanotechnology, Genetic Circuits, Quantum Computing, RNA Vaccines, Strategies for Engineered Negligible Senescence, Solid State Batteries, and Fusion Power. 
+We considered 10 technologies and their corresponding fields: AI, Atomically Precise Manufacturing, Clean Meat, DNA Nanotechnology, Genetic Circuits, Quantum Computing, RNA Vaccines, Strategies for Engineered Negligible Senescence, Solid State Batteries, and Fusion Power.
 
 When choosing technologies, we wanted a sample representative of the kinds of important emerging technologies that would be helpful for understanding the development of academic fields today for the purposes of technology forecasting and differential technological development. We wanted technologies that had a significant academic field associated with them (or might do so in the future), that were well-defined, and for which “success” had a clear end-point. We generally favoured more recent fields (although we also wanted some diversity in recency). For more on how we chose the technologies, see [this Google Doc](https://docs.google.com/document/u/0/d/1YixDq_VV_rMGRgmosdMQAbJPrjLcoIpBocfC60sYbck/edit).
 
@@ -164,7 +165,7 @@ At this time there are government documents discussing this area / technology an
 * **No scientific pushback:**
 At this time, neither prestigious critics nor general scientific establishment pushback were noted by researchers or experts in this area (then or afterwards).
 
-A list of all 29 factors with descriptions can be found in [this Google Doc](https://docs.google.com/document/u/0/d/1J8RKB3_HwdQz42LfjxXOJnVl0cuMDZ4_84hNQNSbIhs/edit). For each factor and for each research field, we recorded whether it was “on” or “off” for each year in the history window (in most cases 1920-2020). 
+A list of all 29 factors with descriptions can be found in [this Google Doc](https://docs.google.com/document/u/0/d/1J8RKB3_HwdQz42LfjxXOJnVl0cuMDZ4_84hNQNSbIhs/edit). For each factor and for each research field, we recorded whether it was “on” or “off” for each year in the history window (in most cases 1920-2020).
 
 Here is a representation of the entire quantitative dataset (this is just for illustration; feel free to only glance at it):
 
@@ -195,14 +196,14 @@ Having said all this, for the sensitivity checks and other analyses I’ve perfo
 ### Technology selection bias and generalisability
 {: #Technology_selection_bias_and_generalisability}
 
-I think that selection bias regarding the choice of technologies to look at should be a key consideration when attempting to draw generally applicable lessons from this work. The particular technologies we chose to look at are partly a reflection of the kinds of technologies and fields Megan and I know about or were able to easily find information about by searching online or asking people in our networks. 
+I think that selection bias regarding the choice of technologies to look at should be a key consideration when attempting to draw generally applicable lessons from this work. The particular technologies we chose to look at are partly a reflection of the kinds of technologies and fields Megan and I know about or were able to easily find information about by searching online or asking people in our networks.
 
 This seems particularly important for the two fields we looked at that (we think) haven’t become self-sustaining, and so aren’t necessarily as well known as the others, namely Atomically Precise Manufacturing and Strategies for Engineered Negligible Senescence. We found it hard to identify and find data for fields that made some progress towards being self-sustaining but never achieved self-sustaining status, and the choice to look at these two technologies probably reflects our exposure to the EA, rationalist, and futurist communities. For example, maybe technologies encountered through these communities are especially likely to be highly ambitious and to experience pushback from mainstream science.
 
 This being the case, I think the safest way to start off thinking about results from the data we collected is “for these 10 technology fields, our data shows...”, rather than “for technology fields in general, our data shows…”. From there, you can think carefully about the extent to which you expect the results to generalise to technology fields in general or to the particular fields you might be interested in.
 
 
-### Factors that are switched on when a field is self-sustaining (almost) by definition 
+### Factors that are switched on when a field is self-sustaining (almost) by definition
 
 As a reminder, we define a self-sustaining field as “an academic research field that is capable of attracting the necessary funds and expertise for future work without reliance on a particular small group of people or funding sources”. Some factors seem (at least) close to being “switched on by definition” when a field is self-sustaining. These are:
 
@@ -338,11 +339,11 @@ The plot below shows how many of the 8 fields that became self-sustaining in our
 
 ![Figure 5](https://39669.cdn.cke-cs.com/cgyAlfpLFBBiEjoXacnz/images/fb6450b16a002992b7936ec35829e0f00eb21245b5ce244e.png/w_565 "Figure 5")
 
-A rapid change in colour from left to right indicates that the factor goes from being switched off for most fields to switched on for most fields in the years leading up to establishment, suggesting that it might be especially relevant for field establishment (these tend to be in the top half of the plot). Factors for which this is true include “risk tolerant funding”, “practical work exists”, “early prototypes exist”, “well connected networks”, “practical designs exist”, “sense of possibility”, “high profile paper exists”, “high perceived impact”, and “powerful people want technology”. You might summarise these as “availability of funding, practical progress, sense that the technology is important (including among well-resourced individuals) and achievable, and existence of at least a small community of researchers”. 
+A rapid change in colour from left to right indicates that the factor goes from being switched off for most fields to switched on for most fields in the years leading up to establishment, suggesting that it might be especially relevant for field establishment (these tend to be in the top half of the plot). Factors for which this is true include “risk tolerant funding”, “practical work exists”, “early prototypes exist”, “well connected networks”, “practical designs exist”, “sense of possibility”, “high profile paper exists”, “high perceived impact”, and “powerful people want technology”. You might summarise these as “availability of funding, practical progress, sense that the technology is important (including among well-resourced individuals) and achievable, and existence of at least a small community of researchers”.
 
 On the other hand, some factors are usually not switched on at establishment (lower third of the plot, dark colour on the right edge of the plot). I think that the following are especially interesting examples of this: “prestigious advocate”, “commercial products exist”, “international competition”, “intuitive appeal” (meaning roughly “the nature of the technology is such that it seems easy to capture people’s imaginations with it”), “popular imagination” (meaning roughly “people generally know what the technology is and don’t view it negatively”) and (to some extent) “government importance”. These seem like the kinds of things you’d think might be important for a field to become self-sustaining. But this result shows that, at least for some kinds of fields, these factors, as we’ve defined them, aren’t necessary for establishment (although of course the result is consistent with these factors being highly beneficial for field establishment).
 
-I’m not sure how best to summarise the difference between these two groups of factors, but it seems like the factors in the first group (which tends to precede a field becoming self-sustaining) are in many cases quite concrete things like funding and practical progress, whereas the factors in the second group (which seems to not be necessary for field establishment) tend to be to do with how the technology is perceived and advocated for. 
+I’m not sure how best to summarise the difference between these two groups of factors, but it seems like the factors in the first group (which tends to precede a field becoming self-sustaining) are in many cases quite concrete things like funding and practical progress, whereas the factors in the second group (which seems to not be necessary for field establishment) tend to be to do with how the technology is perceived and advocated for.
 
 After seeing this result, I now think the factors in the second group are probably in some sense “harder to achieve” than those in the first group -- it could be that they appear less often before establishment purely because they’re less important, but I think at least part of the story is that they are the kinds of things that generally happen less often and/or are harder to make happen (while still being important). This wasn’t obvious to me before starting this project.[^16]
 
@@ -360,7 +361,7 @@ It seems that there’s often movement in nearby fields in this period, since th
 ### Factor occurrences in the establishment year compared to the non-self-sustaining fields in 2020
 {: #Factor_occurrences_in_the_establishment_year_compared_to_the_non_self_sustaining_fields_in_2020}
 
-The plot below shows the number of fields for which each factor was switched on in the establishment year (equivalent to the right hand column in the first plot from the previous section), and also indicates the factor statuses in 2020 for the two fields in our dataset that are not self-sustaining fields, namely Atomically Precise Manufacturing and Strategies for Engineered Negligible Senescence. 
+The plot below shows the number of fields for which each factor was switched on in the establishment year (equivalent to the right hand column in the first plot from the previous section), and also indicates the factor statuses in 2020 for the two fields in our dataset that are not self-sustaining fields, namely Atomically Precise Manufacturing and Strategies for Engineered Negligible Senescence.
 
 ![Figure 7](https://39669.cdn.cke-cs.com/cgyAlfpLFBBiEjoXacnz/images/0acf110c6531bde5fa2cf1b91f47bfa9466285487d5de8a4.png/w_545 "Figure 7")
 
@@ -396,9 +397,9 @@ Often, the factors that are picked out by these statistical methods are ones tha
 ## The length of time between field origin and establishment
 {: #The_length_of_time_between_field_origin_and_establishment}
 
-One way to do a simple outside view-type forecast of when a field will become self-sustaining is to consider the number of years since the origin year. 
+One way to do a simple outside view-type forecast of when a field will become self-sustaining is to consider the number of years since the origin year.
 
-In our dataset, for the 8 fields that reached establishment, the median time between a field’s origin year and establishment year was 18 years, with the quickest field (Genetic Circuits) becoming established after 5 years, and the slowest (Clean Meat) becoming established after 63 years  (the full list of times to establishment for the 8 fields, in years, is: 5, 16, 16, 17, 19, 26, 26, 63). Of the 2 non-established fields, at the time of writing one has had 31 years since its origin year, and the other has had 40. 
+In our dataset, for the 8 fields that reached establishment, the median time between a field’s origin year and establishment year was 18 years, with the quickest field (Genetic Circuits) becoming established after 5 years, and the slowest (Clean Meat) becoming established after 63 years  (the full list of times to establishment for the 8 fields, in years, is: 5, 16, 16, 17, 19, 26, 26, 63). Of the 2 non-established fields, at the time of writing one has had 31 years since its origin year, and the other has had 40.
 
 Using a Kaplan-Meier estimator to estimate the cumulative probability of field establishment accounting for censored data (i.e. the fact that for Atomically Precise Manufacturing and Strategies for Engineered Negligible Senescence we don’t know how long it will be until they become self-sustaining, if ever), the mean amount of time between origin and establishment for the 10 fields we looked at is 31 years, with a 10% probability of establishment by 5 years, and a 90% probability of field establishment by 63 years. The full cumulative distribution function is shown below.
 
@@ -429,7 +430,7 @@ Clean Meat research became self-sustaining in large part due to the efforts of a
 
 ### DNA Nanotechnology
 
-A lone champion (Ned Seeman) plugged away for 20 years, gradually discovering experimental techniques and structural motifs, and demonstrating impressive (though not practically useful) experimental products, until eventually (in the early 2000’s) the tools for fabricating and analysing DNA nanostructures were good enough that exciting things like DNA walkers and DNA origami could be fabricated. This prompted many new groups to join the field, and from there further results were impressive enough to at least ensure the continued growth of the field. 
+A lone champion (Ned Seeman) plugged away for 20 years, gradually discovering experimental techniques and structural motifs, and demonstrating impressive (though not practically useful) experimental products, until eventually (in the early 2000’s) the tools for fabricating and analysing DNA nanostructures were good enough that exciting things like DNA walkers and DNA origami could be fabricated. This prompted many new groups to join the field, and from there further results were impressive enough to at least ensure the continued growth of the field.
 
 
 ### Fusion Power
@@ -485,11 +486,11 @@ Here are some themes and other takeaways coming directly from our investigations
 * Definitions for the origin year and establishment year can be found [here](https://docs.google.com/document/d/1HTACWEnO7NuMfc96fevEKbJWYlLTAGxZNzA0gfugKTg/edit#heading=h.unydfl18a32g).
 * The full quantitative dataset, including the factors data and establishment year for each field, can be found [here](https://docs.google.com/spreadsheets/d/1-9iuwljD6ucLNXFRq8Cpc6-7LCAZZ6DM69xCcadCYkM/edit#gid=0).
 * The descriptions we wrote for each field’s development can be found [here](https://docs.google.com/document/d/1qvSaTzcV-1xMOPCsvVeLkPAQUSB_XyGWo06gzlAmvgc/edit) (brief and with an explanation for the establishment year choice) and [here](https://docs.google.com/document/d/10fmQCc4i8EL8Nckv9Zx5mujjeyGAZyRDAuc153fFIq4/edit#heading=h.nat2tw4dg0wv) (longer).
-* Additional, rougher notes on each field’s development, including development timelines, can be found [here](https://drive.google.com/drive/u/0/folders/15RNSjg-M-JA5a0qKmG3Ok3n6P7XK6UIC). 
+* Additional, rougher notes on each field’s development, including development timelines, can be found [here](https://drive.google.com/drive/u/0/folders/15RNSjg-M-JA5a0qKmG3Ok3n6P7XK6UIC).
 * Some “if I was free to speculate”-style thoughts from me on how to create a self-sustaining field can be found [here]({{ site.baseurl }}/blog/2021/11/18/how-to-create).
 
 
-A brief discussion of the correlations between factors can be found in the Appendix section called [Correlations between factors](#Correlations_between_factors), and a brief discussion of our attempt to develop a quantitative field establishment measure (an initially appealing avenue which we eventually abandoned) can be found in the Appendix 
+A brief discussion of the correlations between factors can be found in the Appendix section called [Correlations between factors](#Correlations_between_factors), and a brief discussion of our attempt to develop a quantitative field establishment measure (an initially appealing avenue which we eventually abandoned) can be found in the Appendix
 section called [We initially tried to develop a quantitative field establishment measure, but eventually decided not to](#We_initially_tried_to_develop_a_quantitative_field_establishment_measure__but_eventually_decided_not_to).
 
 
@@ -575,7 +576,7 @@ The plot shows that randomly shifting the establishment years generally changes 
 ## The distribution of factor first occurrences within the breakout period isn’t just due to noise
 {: #The_distribution_of_factor_first_occurrences_within_the_breakout_period_isn_t_just_due_to_noise}
 
-We define the “breakout period” as the period between the origin year (when the technology is first explored) and the establishment year (when the field becomes self-sustaining).[^19] One way to get a handle on whether the results shown in this report, especially those regarding the relevant effect of the different factors, reflect a real effect or are just due to noise is to see whether the frequency with which the factors occur within the breakout period is consistent with what we’d expect by chance (under certain assumptions). 
+We define the “breakout period” as the period between the origin year (when the technology is first explored) and the establishment year (when the field becomes self-sustaining).[^19] One way to get a handle on whether the results shown in this report, especially those regarding the relevant effect of the different factors, reflect a real effect or are just due to noise is to see whether the frequency with which the factors occur within the breakout period is consistent with what we’d expect by chance (under certain assumptions).
 
 To do this, I started by working out how often on average an arbitrary factor first occurs within the breakout period for an arbitrary field within our data. This turns out to happen roughly 44% of the time (note that I only considered data from the 8 fields we consider to have become self-sustaining, since we only know the endpoint of the breakout period for these fields). I then used simulations to calculate how many of the 29 factors you’d expect to have all 8 first occurrences within the breakout period (and similarly for 7 first occurrences within the breakout period and 1 outside the breakout period, etc), assuming that being inside the breakout period is something that happens with 44% probability irrespective of the identity of the factor or field (or in other words, what you might expect to happen “just by chance”). The results are shown below, alongside our actual data.
 
@@ -589,7 +590,7 @@ As for the identity of the factors that most often occur within the breakout per
 ## Factor count dynamics
 {: #Factor_count_dynamics}
 
-I’ve plotted the time series for the factor count for each field below. The green shaded region shows the period between the origin year and the establishment year (the “breakout period”), during which we consider the field to not yet be self-sustaining. The violet shaded region shows the period during which we consider the field to be self-sustaining (although note that we focused on specifying the start of this period and didn’t worry too much about whether it ended at a later date -- for example, maybe you could argue that the field of AI was no longer self-sustaining at some point between 1960 and 2000). 
+I’ve plotted the time series for the factor count for each field below. The green shaded region shows the period between the origin year and the establishment year (the “breakout period”), during which we consider the field to not yet be self-sustaining. The violet shaded region shows the period during which we consider the field to be self-sustaining (although note that we focused on specifying the start of this period and didn’t worry too much about whether it ended at a later date -- for example, maybe you could argue that the field of AI was no longer self-sustaining at some point between 1960 and 2000).
 
 Interestingly, it seems to me that the factor count generally shows some kind of trend, and so it should be possible to forecast future factor counts using past factor counts with at least some degree of accuracy.
 
@@ -703,7 +704,7 @@ However, we are not experts at assessing the state of a field using paper counts
      We defined this factor as “relevant advances in fabrication within the last 10 years”, so it’s not obvious exactly when the fabrication advances corresponding to this peak occurred.
 
 [^18]:
-     See the Appendix section called 
+     See the Appendix section called
 [Investigating factor importance with decision trees](#Investigating_factor_importance_with_decision_trees) for more details.
 
 [^19]:

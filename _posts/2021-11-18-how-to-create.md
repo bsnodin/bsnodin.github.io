@@ -14,7 +14,7 @@ Academic research happens when government funding is given to academic researche
 
 As grant applicants, academic researchers have a fair amount of leeway to determine what work gets funded, since how funding gets allocated depends on the strength of the various grant applications, and since researchers often deviate significantly from the work they said they’d do in their grant applications.
 
-Meanwhile, although direction from government decision makers is important, the academic researchers who sit on research councils have a lot of influence on which projects receive government funding. 
+Meanwhile, although direction from government decision makers is important, the academic researchers who sit on research councils have a lot of influence on which projects receive government funding.
 
 So, as a group, academic researchers have a surprising amount of control over what gets funded.
 
@@ -52,7 +52,7 @@ The table below explains why various technology-focused academic fields became s
    </td>
    <td>No
    </td>
-   <td>Governments got excited about something nearby but different (nanotechnology), but <strong>most mainstream academic researchers never got very excited about it</strong>. There were PR issues, and mainstream academic researchers <strong>thought it was infeasible </strong>, or not feasible within the next 100 years.
+   <td>Governments got excited about something nearby but different (nanotechnology), but <strong>most mainstream academic researchers never got very excited about it</strong>. There were PR issues, and mainstream academic researchers <strong>thought it was infeasible</strong>, or not feasible within the next 100 years.
    </td>
   </tr>
   <tr>
