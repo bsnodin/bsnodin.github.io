@@ -3,7 +3,7 @@ layout: default
 title: My thoughts on nanotechnology strategy research as an EA cause area
 ---
 
-'My thoughts on nanotechnology strategy research as an EA cause area
+My thoughts on nanotechnology strategy research as an EA cause area
 =================================================================================
 
 
@@ -401,6 +401,8 @@ _This post was written by me, Ben Snodin, in my capacity as a researcher at [Ret
 # Appendix
 
 ## Further reading
+
+**Update 2022-10-24:** See [here](http://www.bensnodin.com/research_articles/nanotech_resources_database/) for a more comprehensive and up-to-date database of resources.
 
 Some resources that are especially relevant for nanotechnology strategy research are:
 

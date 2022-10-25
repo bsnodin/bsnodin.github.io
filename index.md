@@ -5,7 +5,9 @@ title: Ben Snodin
 
 <center><img src="{{ site.baseurl }}/assets/me400x.jpg" alt="me" width="400" id="photo"></center>
 
-Hello and welcome to my website! My name is Ben. I'm a Senior Researcher at [Rethink Priorities](https://rethinkpriorities.org/), where my work focuses on the risks and opportunities from a potential future technology called atomically precise manufacturing.
+Hello and welcome to my website! My name is Ben. I'm a Senior Researcher at Rethink Priorities, where I work on nanotechnology strategy research.
+
+If you're interested in learning more about nanotechnology strategy research, you could check out [this database of resources](http://www.bensnodin.com/research_articles/nanotech_resources_database/) I made.
 
 I previously worked as a Senior Research Scholar at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) and in finance as a quantitative analyst. Before then I completed a [PhD in DNA nanotechnology](https://dna.physics.ox.ac.uk/index.php/Main_Page) at Oxford University. I also used to row a lot.
 
