@@ -6,6 +6,8 @@ image: map_unsplash.jpg
 
 ---
 
+![]({{ site.baseurl }}/assets/{{ page.image }})
+
 _**Or alternatively: “A message for 2018-me: quit your job and start doing ‘EA work’”.**_
 
 _2022/06/29 update since writing this: Claire Boine and I have made a [website advertising career advice for mid-career people](https://www.eapathfinder.org/). Please consider applying for advice  through there if this article resonates with you! (The advice will be from either me or Claire.)_
