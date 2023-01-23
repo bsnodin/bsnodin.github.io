@@ -31,9 +31,9 @@ MathJax.Hub.Config({
 
 			<!-- add thumbnails for twitter, facebook etc -->
 			{% if page.thumbnail %}
-			<meta name="twitter:image" content=page.thumbnail>
-			<meta property="og:image" content=page.thumbnail>
-			<meta name="image" content=page.thumbnail>
+			<meta name="twitter:image" content={{ page.thumbnail }}>
+			<meta property="og:image" content={{ page.thumbnail }}>
+			<meta name="image" content={{ page.thumbnail }}>
 			{% endif %}
 		</head>
 		<body>
