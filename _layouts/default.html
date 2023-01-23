@@ -28,6 +28,13 @@ MathJax.Hub.Config({
                         <link rel="shortcut icon" type="image/png" href="{{ "/assets/me_thumbnail.png" | prepend: site.baseurl }}" >
 			<!-- apparently an SEO improvement. See https://github.blog/2016-05-10-better-discoverability-for-github-pages-sites/ -->
 			{% seo %}
+
+			<!-- add thumbnails for twitter, facebook etc -->
+			{% if page.thumbnail %}
+			<meta name="twitter:image" content=page.thumbnail>
+			<meta property="og:image" content=page.thumbnail>
+			<meta name="image" content=page.thumbnail>
+			{% endif %}
 		</head>
 		<body>
 			<nav>
