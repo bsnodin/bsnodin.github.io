@@ -14,3 +14,5 @@ I previously worked as a Senior Research Scholar at the [Future of Humanity Inst
 I'm into [effective altruism](https://www.effectivealtruism.org/) and [longtermism](https://www.effectivealtruism.org/articles/cause-profile-long-run-future/), and I've signed the [Giving What We Can](https://www.givingwhatwecan.org/) pledge.
 
 You can reach me at hello[at]bensnodin dot com, and you can also leave [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLScelY3qOAAhKkTy3mSLgA896K9YEG1X-AdLfN_wgo-Tkt-e1Q/viewform?usp=sf_link) for me.
+
+The RSS feed for my blog is [here](https://www.bensnodin.com/feed.xml).
