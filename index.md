@@ -5,7 +5,9 @@ title: Ben Snodin
 
 <center><img src="{{ site.baseurl }}/assets/me400x.jpg" alt="me" width="400" id="photo"></center>
 
-Hello and welcome to my website! My name is Ben. I'm a Senior Researcher at [Rethink Priorities](https://rethinkpriorities.org/) in the [General Longtermism team](https://forum.effectivealtruism.org/posts/C26RHHYXzT6P6A4ht/what-rethink-priorities-general-longtermism-team-did-in-2022), where my work to date has included [nanotechnology strategy research](research_articles/thoughts_on_nanotechnology/) and co-founding [EA Pathfinder](https://www.eapathfinder.org/), which I co-led from April to September 2022.
+Hello and welcome to my website! My name is Ben. I'm a Researcher Manager at [Rethink Priorities](https://rethinkpriorities.org/), where I co-lead the [Existential Security team](https://rethinkpriorities.org/team). We are currently focused on [helping launch entrepreneurial projects that reduce existential risk](https://forum.effectivealtruism.org/posts/jYSEjBsWbjNqioRZJ/the-rethink-priorities-existential-security-team-s-strategy).
+
+In 2022 I worked on [nanotechnology strategy research](research_articles/thoughts_on_nanotechnology/) and co-founded [EA Pathfinder](https://www.eapathfinder.org/), which I co-led from April to September 2022. You can see what the Existential Security team more broadly got up to in 2022 [here](https://forum.effectivealtruism.org/posts/C26RHHYXzT6P6A4ht/what-rethink-priorities-general-longtermism-team-did-in-2022).
 
 If you're interested in learning more about nanotechnology strategy research, you could check out [this database of resources](https://www.bensnodin.com/research_articles/nanotech_resources_database/) I made.
 
