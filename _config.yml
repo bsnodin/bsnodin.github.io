@@ -9,3 +9,6 @@ collections:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+
+kramdown:
+  auto_ids: true
