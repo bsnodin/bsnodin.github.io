@@ -12,10 +12,9 @@ thumbnail: alignment_faking_cropped.png
 
 ![]({{ site.baseurl }}/assets/{{ page.image }})
 
+*Also posted to [LessWrong](https://www.lesswrong.com/posts/6c6c3thcDvHPuuvTv/notes-from-a-mini-replication-of-the-alignment-faking-paper).*
 
 ## Key takeaways {#key-takeaways}
-
-
 
 * This post contains my notes from a 30-40 hour mini replication of [Greenblatt et al.’s alignment faking paper](https://www.anthropic.com/research/alignment-faking).
 * This was a significant paper because it provided some evidence for potential catastrophic risk from AI misalignment. ([more](#the-original-alignment-faking-setup))
