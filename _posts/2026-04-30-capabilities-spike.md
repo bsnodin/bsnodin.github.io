@@ -12,7 +12,7 @@ thumbnail: spike.png
 
 ![]({{ site.baseurl }}/assets/{{ page.image }})
 
-*Also posted to [LessWrong](https://www.lesswrong.com/posts/TODO).*
+*Also posted to [LessWrong](https://www.lesswrong.com/posts/JEaesEDNuAEvZa5C4/exploring-the-capabilities-spike-with-metr-s-time-horizon).*
 
 *Fair warning: this is mostly a null result. I tried to figure out what drives the capabilities spike using METR's time horizon data, and didn't find much signal. I'm sharing it because it seems good to share null results.*
 
