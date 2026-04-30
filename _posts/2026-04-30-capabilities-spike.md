@@ -2,7 +2,15 @@
 layout: post
 title: "Exploring the capabilities spike with METR's time horizon data: no clear signal"
 date: 2026-04-30
+image: spike.png
+thumbnail: spike.png
 ---
+
+<meta name="twitter:image" content="spike.png">
+<meta property="og:image" content="spike.png">
+<meta name="image" content="spike.png">
+
+![]({{ site.baseurl }}/assets/{{ page.image }})
 
 *Also posted to [LessWrong](https://www.lesswrong.com/posts/TODO).*
 
